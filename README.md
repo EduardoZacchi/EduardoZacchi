@@ -4,13 +4,6 @@ I am an aspiring **SOC Analyst** and **Cybersecurity Professional**, with strong
 I have hands-on experience with **SIEM, IDS/IPS, XDR, Firewalls, DNS filtering, email security, and more**.  
 Currently preparing for **CompTIA Security+**, I am passionate about identifying and mitigating threats to secure IT infrastructures.
 
-<div align="center">
-  <a href="https://github.com/yourgithub">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
 ---
 
 ### ⚡ **Skills & Tools:**
