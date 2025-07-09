@@ -1,32 +1,47 @@
-## 👋 Hello! I'm Eduardo
+# 👋 Hello! I'm Eduardo
 
-I am an aspiring **SOC Analyst** and **Cybersecurity Professional**, with strong knowledge in **network security, incident response, and threat analysis**.  
-I have hands-on experience with **SIEM, IDS/IPS, XDR, Firewalls, DNS filtering, email security, and more**.  
-Currently preparing for **CompTIA Security+**, I am passionate about identifying and mitigating threats to secure IT infrastructures.
+I’m an aspiring **Backend Developer** specialized in **Java** and **Spring Boot**, currently focused on building scalable and secure backend applications. With a foundation in **cybersecurity**, I bring a unique perspective to software development, especially when it comes to secure coding and threat-aware systems.
 
----
-
-### ⚡ **Skills & Tools:**
-
-Below are some of the key **technologies and tools** I work with:
-
-[![My Skills](https://skillicons.dev/icons?i=bash,linux,docker,sql,java,)](https://skillicons.dev)  
-[![Security Tools](https://skillicons.dev/icons?i=wireshark,burpsuite)](https://skillicons.dev)  
-
-🔹 **Network Security**: TCP/IP, DNS, Firewalls, IDS/IPS, VPN, DDoS mitigation  
-🔹 **Threat Intelligence & Incident Response**: SIEM, WAF, EDR, XDR, Email Security  
-🔹 **Content Filtering & Access Control**: Proxies, DNS filtering, Cloud Security  
-🔹 **Security Frameworks**: NIST, CIS Controls, ISO 27001 (theory)  
-🔹 **Threat Analysis**: Packet inspection (Wireshark, TCPDump)  
-🔹 **Scripting & Automation**: Python, Bash, SQL  
-🔹 **Cloud Security**: AWS, Azure, GCP (basic knowledge)  
+🎯 I’m actively looking for opportunities in **Java Backend Development**, while continuing to nurture my passion for **Cybersecurity**, aiming to transition into this field in the future.
 
 ---
 
-### 📫 **Let's Connect!**
+## 🛠️ Skills & Tools
 
-<div> 
-  <a href="https://www.instagram.com/eduardozacchi_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:edzacchi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-ferreira-de-macedo-zacchi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+### 💻 Development & Tools:
+<p align="left">
+  <!-- Languages & Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+</p>
+
+### 🛡️ Cybersecurity (Past Experience & Ongoing Interest):
+- **Network Security**: TCP/IP, DNS, VPN, Firewalls, IDS/IPS, DDoS mitigation  
+- **Threat Intelligence & Incident Response**: SIEM, EDR, XDR, Email Security  
+- **Traffic Analysis**: Wireshark, TCPDump  
+- **Security Standards**: NIST, CIS Controls, ISO 27001 (theory)  
+- **Cloud Security (Basic knowledge)**: AWS, Azure, GCP  
+- **Content Filtering**: DNS filtering, Proxies  
+
+---
+
+## 📚 Currently Learning:
+- Advanced Spring Ecosystem (Security, WebFlux, Batch)
+- Secure coding practices for web applications
+- Preparing for **CompTIA Security+** certification
+
+---
+
+## 🤝 Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu_usuario)
