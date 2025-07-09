@@ -10,7 +10,7 @@ Currently preparing for **CompTIA Security+**, I am passionate about identifying
 
 Below are some of the key **technologies and tools** I work with:
 
-[![My Skills](https://skillicons.dev/icons?i=python,bash,linux,docker,sql)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=bash,linux,docker,sql,java,)](https://skillicons.dev)  
 [![Security Tools](https://skillicons.dev/icons?i=wireshark,burpsuite)](https://skillicons.dev)  
 
 🔹 **Network Security**: TCP/IP, DNS, Firewalls, IDS/IPS, VPN, DDoS mitigation  
